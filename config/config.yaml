@@ -117,3 +117,12 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
+  - id: "hackernews"
+    name: "hackernews"
+  - id: "github"
+    name: "github"
+  - id: "producthunt"
+    name: "producthunt"
+  - id: "nowcoder"
+    name: "nowcoder"
+    
